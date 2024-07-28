@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robinglhs5@gmail.com**
 
-- ⚡ Fun fact **I've good sense of humour**
+- ⚡ Fun fact **I've a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
