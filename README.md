@@ -1,6 +1,49 @@
-<h1 align="center">Hi 👋, I'm Niloy Das Robin</h1>
-<h3 align="center">A passionate CS Engineer from Bangladesh</h3>
-<h3 align="center">AI, ML, DL enthusiast, Frontend Backend Developer, dedicated Leetcode and CTF solver </h3>
+<h1 align="center">
+  <span class="animated-text">Hi 👋, I'm Niloy Das Robin</span>
+</h1>
+<h3 align="center" style="animation: fadeIn 2s ease-in;">
+  A passionate CS Engineer from Bangladesh
+</h3>
+
+<h3 align="center" style="animation: fadeIn 2s ease-in 1s;">
+  AI, ML, DL enthusiast, Frontend Backend Developer, dedicated Leetcode and CTF solver
+</h3>
+
+<style>
+/* Typing animation */
+.animated-text {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid transparent; /* Cursor effect */
+  animation: typing 3s steps(30, end), blink 0.5s step-end infinite alternate;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: black;
+  }
+}
+
+/* Fade-in effect */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballisticrobin&label=Profile%20views&color=0e75b6&style=flat" alt="ballisticrobin" /> </p>
 
