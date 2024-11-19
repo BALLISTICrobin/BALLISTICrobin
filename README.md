@@ -17,8 +17,7 @@
   <a href="https://leetcode.com/u/Robin_29/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
   <a href="https://devpost.com/robinglhs5?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67447840/232159546-b179d612-c4c7-4f5b-8e66-46b0dc7e1b3b.png" alt="devpost" height="30" width="40" /></a>
   <a href="https://play.picoctf.org/users/SkippyCavanaugh" target="blank"><img align="center" src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoctf" height="30" width="40" /></a>
-</p>
-<p align="left">
+
 <a href="https://fb.com/robin.niloy.526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robin.niloy.526" height="30" width="40" /></a>
 <a href="https://instagram.com/robin_hood_speaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin_hood_speaks" height="30" width="40" /></a>
 <a href="https://discord.gg/n.d.robin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="n.d.robin" height="30" width="40" /></a>
