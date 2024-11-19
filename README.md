@@ -14,8 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/robin_hood_speaks/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/robin.niloy.526" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Robin_29/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
   <a href="https://devpost.com/robinglhs5?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Devpost_icon.png" alt="devpost" height="30" width="40" /></a>
   <a href="https://play.picoctf.org/users/SkippyCavanaugh" target="blank"><img align="center" src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoctf" height="30" width="40" /></a>
