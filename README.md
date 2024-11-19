@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/Robin_29/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="https://devpost.com/robinglhs5?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Devpost_icon.png" alt="devpost" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Robin_29/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://devpost.com/robinglhs5?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67447840/232159546-b179d612-c4c7-4f5b-8e66-46b0dc7e1b3b.png" alt="devpost" height="30" width="40" /></a>
   <a href="https://play.picoctf.org/users/SkippyCavanaugh" target="blank"><img align="center" src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoctf" height="30" width="40" /></a>
 </p>
 <p align="left">
