@@ -80,6 +80,15 @@
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/></a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="scikit learn" width="45" height="45"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/></a>
+    <a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=45&v=4" alt="langchain" width="45" height="45" style="border-radius: 5px;"/></a>
+</p>
+
+#### DevOps & Monitoring 🚀
+<p align="left">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="github actions" width="45" height="45"/></a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="45" height="45"/></a>
+    <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/></a>
 </p>
 
 #### Core Languages & Development Essentials 🔧
